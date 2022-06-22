@@ -1,0 +1,9 @@
+name: birdbrain
+dependencies:
+  - os
+  - glob
+  - pandas
+  - matplotlib
+  - seaborn
+  - bokeh
+  - sklearn
