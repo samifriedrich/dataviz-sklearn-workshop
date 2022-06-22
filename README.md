@@ -3,6 +3,9 @@
 A Jupyter Notebook-based workshop on data visualization and machine learning basics created and led by [Sami Friedrich](https://www.linkedin.com/in/sami-friedrich/) and [Alex Nevue](https://www.linkedin.com/in/alexandernevue/). This workshop was part of a peer-instructed Python course in 2018 at Oregon Health and Science University organized by Dr's [Stephen David](https://www.linkedin.com/in/stephen-david-a264794/) and [Brad Buran](https://www.linkedin.com/in/bburan/). Teacher, student, and answer notebook versions are derived from the base notebook file.
 
 ## Introduction
+![comparison of matplotlib, seaborn, and bokeh plots](graphicalsummary.jpg "Title")
+
+
 This workshop demonstrates some of the neat ways to explore and display data using `matplotlib`, `seaborn` and `bokeh`. Then it introduces `scikit-learn`, and the power of classifiers to make predictions. 
 
 The dataset used throughout this workshop is from a study published in 2016 by Olcowicz et al. titled 
